@@ -1,1 +1,1 @@
-# Bitcoin-Ticker-AppleScript
+# Bitcoin Ticker for Better Touch Tool using AppleScript
